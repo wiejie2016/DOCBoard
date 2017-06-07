@@ -5,8 +5,8 @@ The DOCboard project is a proof of concept of a continue-integration and continu
 
 ### Getting Started
 
-    * Clone the project from gitHub link: https://github.com/wiejie2016/DOCBoard.git
-    * Import/open the project with your most comfortable IDE.
+   * Clone the project from gitHub link: https://github.com/wiejie2016/DOCBoard.git
+   * Import/open the project with your most comfortable IDE.
 
 
 The project folder structure:
