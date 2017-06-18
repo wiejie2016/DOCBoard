@@ -1,0 +1,1543 @@
+{
+    "memory":  {
+                   "total":  16656832,
+                   "free":  "1152624kB"
+               },
+    "filesystem":  {
+                       "percent_used":  62,
+                       "drive":  "C:",
+                       "used":  "296.3",
+                       "total_size":  "475.8",
+                       "available":  "179.5"
+                   },
+    "hostName":  "CPX-C191L01YUKV",
+    "os":  {
+               "version":  "10.0.10586",
+               "name":  "Microsoft Windows 10 Enterprise"
+           },
+    "services":  [
+                     {
+                         "name":  "Adobe Acrobat Update Service",
+                         "status":  "Running"
+                     },
+                     {
+                         "name":  "AllJoyn Router Service",
+                         "status":  "Stopped"
+                     },
+                     {
+                         "name":  "Application Layer Gateway Service",
+                         "status":  "Stopped"
+                     },
+                     {
+                         "name":  "AMD External Events Utility",
+                         "status":  "Running"
+                     },
+                     {
+                         "name":  "Accenture Mobile Media Reminder Service",
+                         "status":  "Running"
+                     },
+                     {
+                         "name":  "Alps HID Monitor Service",
+                         "status":  "Running"
+                     },
+                     {
+                         "name":  "Application Identity",
+                         "status":  "Stopped"
+                     },
+                     {
+                         "name":  "Application Information",
+                         "status":  "Running"
+                     },
+                     {
+                         "name":  "Application Management",
+                         "status":  "Stopped"
+                     },
+                     {
+                         "name":  "App Readiness",
+                         "status":  "Stopped"
+                     },
+                     {
+                         "name":  "AppX Deployment Service (AppXSVC)",
+                         "status":  "Stopped"
+                     },
+                     {
+                         "name":  "ASP.NET State Service",
+                         "status":  "Stopped"
+                     },
+                     {
+                         "name":  "Windows Audio Endpoint Builder",
+                         "status":  "Running"
+                     },
+                     {
+                         "name":  "Windows Audio",
+                         "status":  "Running"
+                     },
+                     {
+                         "name":  "Avecto Defendpoint Service",
+                         "status":  "Running"
+                     },
+                     {
+                         "name":  "ActiveX Installer (AxInstSV)",
+                         "status":  "Stopped"
+                     },
+                     {
+                         "name":  "BitLocker Drive Encryption Service",
+                         "status":  "Running"
+                     },
+                     {
+                         "name":  "Base Filtering Engine",
+                         "status":  "Running"
+                     },
+                     {
+                         "name":  "Background Intelligent Transfer Service",
+                         "status":  "Running"
+                     },
+                     {
+                         "name":  "Background Tasks Infrastructure Service",
+                         "status":  "Running"
+                     },
+                     {
+                         "name":  "Computer Browser",
+                         "status":  "Running"
+                     },
+                     {
+                         "name":  "Bluetooth Handsfree Service",
+                         "status":  "Stopped"
+                     },
+                     {
+                         "name":  "Bluetooth Support Service",
+                         "status":  "Stopped"
+                     },
+                     {
+                         "name":  "SMS Agent Host",
+                         "status":  "Running"
+                     },
+                     {
+                         "name":  "Connected Device Platform Service",
+                         "status":  "Stopped"
+                     },
+                     {
+                         "name":  "Certificate Propagation",
+                         "status":  "Running"
+                     },
+                     {
+                         "name":  "Microsoft Office Click-to-Run Service",
+                         "status":  "Running"
+                     },
+                     {
+                         "name":  "Client License Service (ClipSVC)",
+                         "status":  "Stopped"
+                     },
+                     {
+                         "name":  "Configuration Manager Remote Control",
+                         "status":  "Stopped"
+                     },
+                     {
+                         "name":  "Docker for Windows Service",
+                         "status":  "Running"
+                     },
+                     {
+                         "name":  "COM+ System Application",
+                         "status":  "Stopped"
+                     },
+                     {
+                         "name":  "CoreMessaging",
+                         "status":  "Running"
+                     },
+                     {
+                         "name":  "Intel(R) Content Protection HECI Service",
+                         "status":  "Running"
+                     },
+                     {
+                         "name":  "Intel(R) Content Protection HDCP Service",
+                         "status":  "Stopped"
+                     },
+                     {
+                         "name":  "Cryptographic Services",
+                         "status":  "Running"
+                     },
+                     {
+                         "name":  "Offline Files",
+                         "status":  "Running"
+                     },
+                     {
+                         "name":  "DSM SA Event Manager",
+                         "status":  "Running"
+                     },
+                     {
+                         "name":  "DCOM Server Process Launcher",
+                         "status":  "Running"
+                     },
+                     {
+                         "name":  "DataCollectionPublishingService",
+                         "status":  "Stopped"
+                     },
+                     {
+                         "name":  "DSM SA Data Manager",
+                         "status":  "Stopped"
+                     },
+                     {
+                         "name":  "Optimize drives",
+                         "status":  "Stopped"
+                     },
+                     {
+                         "name":  "Device Association Service",
+                         "status":  "Running"
+                     },
+                     {
+                         "name":  "Device Install Service",
+                         "status":  "Stopped"
+                     },
+                     {
+                         "name":  "DevQuery Background Discovery Broker",
+                         "status":  "Stopped"
+                     },
+                     {
+                         "name":  "DHCP Client",
+                         "status":  "Running"
+                     },
+                     {
+                         "name":  "Microsoft (R) Diagnostics Hub Standard Collector Service",
+                         "status":  "Stopped"
+                     },
+                     {
+                         "name":  "Connected User Experiences and Telemetry",
+                         "status":  "Running"
+                     },
+                     {
+                         "name":  "Device Management Enrollment Service",
+                         "status":  "Stopped"
+                     },
+                     {
+                         "name":  "dmwappushsvc",
+                         "status":  "Stopped"
+                     },
+                     {
+                         "name":  "DNS Client",
+                         "status":  "Running"
+                     },
+                     {
+                         "name":  "Delivery Optimization",
+                         "status":  "Running"
+                     },
+                     {
+                         "name":  "Wired AutoConfig",
+                         "status":  "Running"
+                     },
+                     {
+                         "name":  "Diagnostic Policy Service",
+                         "status":  "Running"
+                     },
+                     {
+                         "name":  "Device Setup Manager",
+                         "status":  "Stopped"
+                     },
+                     {
+                         "name":  "Data Sharing Service",
+                         "status":  "Running"
+                     },
+                     {
+                         "name":  "Extensible Authentication Protocol",
+                         "status":  "Running"
+                     },
+                     {
+                         "name":  "EDPA",
+                         "status":  "Running"
+                     },
+                     {
+                         "name":  "Encrypting File System (EFS)",
+                         "status":  "Stopped"
+                     },
+                     {
+                         "name":  "embeddedmode",
+                         "status":  "Stopped"
+                     },
+                     {
+                         "name":  "Enterprise App Management Service",
+                         "status":  "Stopped"
+                     },
+                     {
+                         "name":  "ESIF Upper Framework Service",
+                         "status":  "Running"
+                     },
+                     {
+                         "name":  "Energy Server Service queencreek",
+                         "status":  "Running"
+                     },
+                     {
+                         "name":  "Windows Event Log",
+                         "status":  "Running"
+                     },
+                     {
+                         "name":  "COM+ Event System",
+                         "status":  "Running"
+                     },
+                     {
+                         "name":  "Intel(R) PROSet/Wireless Event Log",
+                         "status":  "Running"
+                     },
+                     {
+                         "name":  "Fax",
+                         "status":  "Stopped"
+                     },
+                     {
+                         "name":  "Function Discovery Provider Host",
+                         "status":  "Stopped"
+                     },
+                     {
+                         "name":  "Function Discovery Resource Publication",
+                         "status":  "Running"
+                     },
+                     {
+                         "name":  "File History Service",
+                         "status":  "Stopped"
+                     },
+                     {
+                         "name":  "Windows Font Cache Service",
+                         "status":  "Running"
+                     },
+                     {
+                         "name":  "Windows Presentation Foundation Font Cache 3.0.0.0",
+                         "status":  "Running"
+                     },
+                     {
+                         "name":  "Group Policy Client",
+                         "status":  "Stopped"
+                     },
+                     {
+                         "name":  "Google Update Service (gupdate)",
+                         "status":  "Stopped"
+                     },
+                     {
+                         "name":  "Google Update Service (gupdatem)",
+                         "status":  "Stopped"
+                     },
+                     {
+                         "name":  "Human Interface Device Service",
+                         "status":  "Running"
+                     },
+                     {
+                         "name":  "HomeGroup Provider",
+                         "status":  "Running"
+                     },
+                     {
+                         "name":  "HV Host Service",
+                         "status":  "Running"
+                     },
+                     {
+                         "name":  "Intel Bluetooth Service",
+                         "status":  "Running"
+                     },
+                     {
+                         "name":  "Windows Mobile Hotspot Service",
+                         "status":  "Stopped"
+                     },
+                     {
+                         "name":  "Internet Explorer ETW Collector Service",
+                         "status":  "Stopped"
+                     },
+                     {
+                         "name":  "Intel(R) HD Graphics Control Panel Service",
+                         "status":  "Running"
+                     },
+                     {
+                         "name":  "IKE and AuthIP IPsec Keying Modules",
+                         "status":  "Running"
+                     },
+                     {
+                         "name":  "iMobilityService",
+                         "status":  "Running"
+                     },
+                     {
+                         "name":  "Intel(R) Capability Licensing Service TCP IP Interface",
+                         "status":  "Stopped"
+                     },
+                     {
+                         "name":  "IP Helper",
+                         "status":  "Running"
+                     },
+                     {
+                         "name":  "iPlatformService",
+                         "status":  "Running"
+                     },
+                     {
+                         "name":  "Windows Phone IP over USB Transport (IpOverUsbSvc)",
+                         "status":  "Running"
+                     },
+                     {
+                         "name":  "Intel(R) Dynamic Application Loader Host Interface Service",
+                         "status":  "Running"
+                     },
+                     {
+                         "name":  "Juniper Unified Network Service",
+                         "status":  "Running"
+                     },
+                     {
+                         "name":  "CNG Key Isolation",
+                         "status":  "Running"
+                     },
+                     {
+                         "name":  "KtmRm for Distributed Transaction Coordinator",
+                         "status":  "Stopped"
+                     },
+                     {
+                         "name":  "Server",
+                         "status":  "Running"
+                     },
+                     {
+                         "name":  "Workstation",
+                         "status":  "Running"
+                     },
+                     {
+                         "name":  "Geolocation Service",
+                         "status":  "Running"
+                     },
+                     {
+                         "name":  "Windows License Manager Service",
+                         "status":  "Running"
+                     },
+                     {
+                         "name":  "Link-Layer Topology Discovery Mapper",
+                         "status":  "Stopped"
+                     },
+                     {
+                         "name":  "TCP/IP NetBIOS Helper",
+                         "status":  "Running"
+                     },
+                     {
+                         "name":  "Intel(R) Management and Security Application Local Management Service",
+                         "status":  "Running"
+                     },
+                     {
+                         "name":  "Microsoft Policy Platform Local Authority",
+                         "status":  "Stopped"
+                     },
+                     {
+                         "name":  "Microsoft Policy Platform Processor",
+                         "status":  "Stopped"
+                     },
+                     {
+                         "name":  "Local Session Manager",
+                         "status":  "Running"
+                     },
+                     {
+                         "name":  "Downloaded Maps Manager",
+                         "status":  "Stopped"
+                     },
+                     {
+                         "name":  "Windows Firewall",
+                         "status":  "Running"
+                     },
+                     {
+                         "name":  "Distributed Transaction Coordinator",
+                         "status":  "Stopped"
+                     },
+                     {
+                         "name":  "Microsoft iSCSI Initiator Service",
+                         "status":  "Stopped"
+                     },
+                     {
+                         "name":  "Windows Installer",
+                         "status":  "Stopped"
+                     },
+                     {
+                         "name":  "MySQL57",
+                         "status":  "Running"
+                     },
+                     {
+                         "name":  "Wireless PAN DHCP Server",
+                         "status":  "Stopped"
+                     },
+                     {
+                         "name":  "Network Connectivity Assistant",
+                         "status":  "Running"
+                     },
+                     {
+                         "name":  "Network Connection Broker",
+                         "status":  "Running"
+                     },
+                     {
+                         "name":  "Network Connected Devices Auto-Setup",
+                         "status":  "Stopped"
+                     },
+                     {
+                         "name":  "Net Driver HPZ12",
+                         "status":  "Stopped"
+                     },
+                     {
+                         "name":  "Netlogon",
+                         "status":  "Running"
+                     },
+                     {
+                         "name":  "Network Connections",
+                         "status":  "Running"
+                     },
+                     {
+                         "name":  "Network List Service",
+                         "status":  "Running"
+                     },
+                     {
+                         "name":  "Network Setup Service",
+                         "status":  "Stopped"
+                     },
+                     {
+                         "name":  "Net.Tcp Port Sharing Service",
+                         "status":  "Stopped"
+                     },
+                     {
+                         "name":  "Microsoft Passport Container",
+                         "status":  "Stopped"
+                     },
+                     {
+                         "name":  "Microsoft Passport",
+                         "status":  "Stopped"
+                     },
+                     {
+                         "name":  "Network Location Awareness",
+                         "status":  "Running"
+                     },
+                     {
+                         "name":  "Network Store Interface Service",
+                         "status":  "Running"
+                     },
+                     {
+                         "name":  "Office  Source Engine",
+                         "status":  "Stopped"
+                     },
+                     {
+                         "name":  "Office 64 Source Engine",
+                         "status":  "Stopped"
+                     },
+                     {
+                         "name":  "Peer Networking Identity Manager",
+                         "status":  "Stopped"
+                     },
+                     {
+                         "name":  "Peer Networking Grouping",
+                         "status":  "Stopped"
+                     },
+                     {
+                         "name":  "Program Compatibility Assistant Service",
+                         "status":  "Running"
+                     },
+                     {
+                         "name":  "BranchCache",
+                         "status":  "Running"
+                     },
+                     {
+                         "name":  "Performance Counter DLL Host",
+                         "status":  "Stopped"
+                     },
+                     {
+                         "name":  "Phone Service",
+                         "status":  "Stopped"
+                     },
+                     {
+                         "name":  "Performance Logs \u0026 Alerts",
+                         "status":  "Stopped"
+                     },
+                     {
+                         "name":  "Plug and Play",
+                         "status":  "Running"
+                     },
+                     {
+                         "name":  "Pml Driver HPZ12",
+                         "status":  "Stopped"
+                     },
+                     {
+                         "name":  "PNRP Machine Name Publication Service",
+                         "status":  "Stopped"
+                     },
+                     {
+                         "name":  "Peer Name Resolution Protocol",
+                         "status":  "Stopped"
+                     },
+                     {
+                         "name":  "IPsec Policy Agent",
+                         "status":  "Running"
+                     },
+                     {
+                         "name":  "Power",
+                         "status":  "Running"
+                     },
+                     {
+                         "name":  "Printer Extensions and Notifications",
+                         "status":  "Stopped"
+                     },
+                     {
+                         "name":  "User Profile Service",
+                         "status":  "Running"
+                     },
+                     {
+                         "name":  "Pulse Secure Service",
+                         "status":  "Running"
+                     },
+                     {
+                         "name":  "Quality Windows Audio Video Experience",
+                         "status":  "Stopped"
+                     },
+                     {
+                         "name":  "RabbitMQ",
+                         "status":  "Running"
+                     },
+                     {
+                         "name":  "Remote Access Auto Connection Manager",
+                         "status":  "Stopped"
+                     },
+                     {
+                         "name":  "Remote Access Connection Manager",
+                         "status":  "Running"
+                     },
+                     {
+                         "name":  "Intel(R) PROSet/Wireless Registry Service",
+                         "status":  "Running"
+                     },
+                     {
+                         "name":  "Routing and Remote Access",
+                         "status":  "Stopped"
+                     },
+                     {
+                         "name":  "Remote Registry",
+                         "status":  "Stopped"
+                     },
+                     {
+                         "name":  "Retail Demo Service",
+                         "status":  "Stopped"
+                     },
+                     {
+                         "name":  "RPC Endpoint Mapper",
+                         "status":  "Running"
+                     },
+                     {
+                         "name":  "Remote Procedure Call (RPC) Locator",
+                         "status":  "Stopped"
+                     },
+                     {
+                         "name":  "Remote Procedure Call (RPC)",
+                         "status":  "Running"
+                     },
+                     {
+                         "name":  "Realtek Audio Service",
+                         "status":  "Running"
+                     },
+                     {
+                         "name":  "Security Accounts Manager",
+                         "status":  "Running"
+                     },
+                     {
+                         "name":  "Smart Card",
+                         "status":  "Stopped"
+                     },
+                     {
+                         "name":  "Smart Card Device Enumeration Service",
+                         "status":  "Stopped"
+                     },
+                     {
+                         "name":  "Task Scheduler",
+                         "status":  "Running"
+                     },
+                     {
+                         "name":  "Smart Card Removal Policy",
+                         "status":  "Stopped"
+                     },
+                     {
+                         "name":  "Windows Backup",
+                         "status":  "Stopped"
+                     },
+                     {
+                         "name":  "Secondary Logon",
+                         "status":  "Stopped"
+                     },
+                     {
+                         "name":  "System Event Notification Service",
+                         "status":  "Running"
+                     },
+                     {
+                         "name":  "Sensor Data Service",
+                         "status":  "Stopped"
+                     },
+                     {
+                         "name":  "Sensor Service",
+                         "status":  "Running"
+                     },
+                     {
+                         "name":  "Sensor Monitoring Service",
+                         "status":  "Stopped"
+                     },
+                     {
+                         "name":  "Symantec Endpoint Protection",
+                         "status":  "Running"
+                     },
+                     {
+                         "name":  "Remote Desktop Configuration",
+                         "status":  "Running"
+                     },
+                     {
+                         "name":  "Internet Connection Sharing (ICS)",
+                         "status":  "Stopped"
+                     },
+                     {
+                         "name":  "Shell Hardware Detection",
+                         "status":  "Running"
+                     },
+                     {
+                         "name":  "Skype Updater",
+                         "status":  "Stopped"
+                     },
+                     {
+                         "name":  "Microsoft Storage Spaces SMP",
+                         "status":  "Stopped"
+                     },
+                     {
+                         "name":  "Microsoft Windows SMS Router Service.",
+                         "status":  "Running"
+                     },
+                     {
+                         "name":  "ConfigMgr Task Sequence Agent",
+                         "status":  "Stopped"
+                     },
+                     {
+                         "name":  "Symantec Network Access Control",
+                         "status":  "Stopped"
+                     },
+                     {
+                         "name":  "SNMP Trap",
+                         "status":  "Stopped"
+                     },
+                     {
+                         "name":  "Print Spooler",
+                         "status":  "Running"
+                     },
+                     {
+                         "name":  "Software Protection",
+                         "status":  "Stopped"
+                     },
+                     {
+                         "name":  "SQL Server VSS Writer",
+                         "status":  "Running"
+                     },
+                     {
+                         "name":  "SSDP Discovery",
+                         "status":  "Running"
+                     },
+                     {
+                         "name":  "Secure Socket Tunneling Protocol Service",
+                         "status":  "Running"
+                     },
+                     {
+                         "name":  "State Repository Service",
+                         "status":  "Running"
+                     },
+                     {
+                         "name":  "Windows Image Acquisition (WIA)",
+                         "status":  "Stopped"
+                     },
+                     {
+                         "name":  "Storage Service",
+                         "status":  "Running"
+                     },
+                     {
+                         "name":  "Spot Verifier",
+                         "status":  "Stopped"
+                     },
+                     {
+                         "name":  "Microsoft Software Shadow Copy Provider",
+                         "status":  "Stopped"
+                     },
+                     {
+                         "name":  "Superfetch",
+                         "status":  "Running"
+                     },
+                     {
+                         "name":  "Sysmon",
+                         "status":  "Running"
+                     },
+                     {
+                         "name":  "System Events Broker",
+                         "status":  "Running"
+                     },
+                     {
+                         "name":  "Intel(R) System Usage Report Service SystemUsageReportSvc_QUEENCREEK",
+                         "status":  "Running"
+                     },
+                     {
+                         "name":  "Touch Keyboard and Handwriting Panel Service",
+                         "status":  "Stopped"
+                     },
+                     {
+                         "name":  "Tanium Client",
+                         "status":  "Running"
+                     },
+                     {
+                         "name":  "Telephony",
+                         "status":  "Stopped"
+                     },
+                     {
+                         "name":  "Te.Service",
+                         "status":  "Stopped"
+                     },
+                     {
+                         "name":  "Remote Desktop Services",
+                         "status":  "Running"
+                     },
+                     {
+                         "name":  "Themes",
+                         "status":  "Running"
+                     },
+                     {
+                         "name":  "Storage Tiers Management",
+                         "status":  "Stopped"
+                     },
+                     {
+                         "name":  "Tile Data model server",
+                         "status":  "Running"
+                     },
+                     {
+                         "name":  "Time Broker",
+                         "status":  "Running"
+                     },
+                     {
+                         "name":  "Distributed Link Tracking Client",
+                         "status":  "Running"
+                     },
+                     {
+                         "name":  "Windows Modules Installer",
+                         "status":  "Stopped"
+                     },
+                     {
+                         "name":  "Auto Time Zone Updater",
+                         "status":  "Stopped"
+                     },
+                     {
+                         "name":  "Interactive Services Detection",
+                         "status":  "Stopped"
+                     },
+                     {
+                         "name":  "Remote Desktop Services UserMode Port Redirector",
+                         "status":  "Running"
+                     },
+                     {
+                         "name":  "UPnP Device Host",
+                         "status":  "Stopped"
+                     },
+                     {
+                         "name":  "User Energy Server Service queencreek",
+                         "status":  "Stopped"
+                     },
+                     {
+                         "name":  "User Manager",
+                         "status":  "Running"
+                     },
+                     {
+                         "name":  "Update Orchestrator Service",
+                         "status":  "Stopped"
+                     },
+                     {
+                         "name":  "Credential Manager",
+                         "status":  "Running"
+                     },
+                     {
+                         "name":  "Virtual Disk",
+                         "status":  "Stopped"
+                     },
+                     {
+                         "name":  "Hyper-V Host Compute Service",
+                         "status":  "Stopped"
+                     },
+                     {
+                         "name":  "Hyper-V Guest Service Interface",
+                         "status":  "Stopped"
+                     },
+                     {
+                         "name":  "Hyper-V Heartbeat Service",
+                         "status":  "Stopped"
+                     },
+                     {
+                         "name":  "Hyper-V Data Exchange Service",
+                         "status":  "Stopped"
+                     },
+                     {
+                         "name":  "Hyper-V Remote Desktop Virtualization Service",
+                         "status":  "Stopped"
+                     },
+                     {
+                         "name":  "Hyper-V Guest Shutdown Service",
+                         "status":  "Stopped"
+                     },
+                     {
+                         "name":  "Hyper-V Time Synchronization Service",
+                         "status":  "Stopped"
+                     },
+                     {
+                         "name":  "Hyper-V VM Session Service",
+                         "status":  "Stopped"
+                     },
+                     {
+                         "name":  "Hyper-V Volume Shadow Copy Requestor",
+                         "status":  "Stopped"
+                     },
+                     {
+                         "name":  "Hyper-V Virtual Machine Management",
+                         "status":  "Running"
+                     },
+                     {
+                         "name":  "Volume Shadow Copy",
+                         "status":  "Stopped"
+                     },
+                     {
+                         "name":  "Visual Studio Standard Collector Service 150",
+                         "status":  "Stopped"
+                     },
+                     {
+                         "name":  "Windows Time",
+                         "status":  "Running"
+                     },
+                     {
+                         "name":  "WalletService",
+                         "status":  "Stopped"
+                     },
+                     {
+                         "name":  "Block Level Backup Engine Service",
+                         "status":  "Stopped"
+                     },
+                     {
+                         "name":  "Windows Biometric Service",
+                         "status":  "Stopped"
+                     },
+                     {
+                         "name":  "Windows Connection Manager",
+                         "status":  "Running"
+                     },
+                     {
+                         "name":  "Windows Connect Now - Config Registrar",
+                         "status":  "Stopped"
+                     },
+                     {
+                         "name":  "Windows Color System",
+                         "status":  "Stopped"
+                     },
+                     {
+                         "name":  "Diagnostic Service Host",
+                         "status":  "Running"
+                     },
+                     {
+                         "name":  "Diagnostic System Host",
+                         "status":  "Stopped"
+                     },
+                     {
+                         "name":  "Windows Defender Network Inspection Service",
+                         "status":  "Stopped"
+                     },
+                     {
+                         "name":  "WDP",
+                         "status":  "Running"
+                     },
+                     {
+                         "name":  "WebClient",
+                         "status":  "Stopped"
+                     },
+                     {
+                         "name":  "Windows Event Collector",
+                         "status":  "Stopped"
+                     },
+                     {
+                         "name":  "Windows Encryption Provider Host Service",
+                         "status":  "Stopped"
+                     },
+                     {
+                         "name":  "Problem Reports and Solutions Control Panel Support",
+                         "status":  "Stopped"
+                     },
+                     {
+                         "name":  "Windows Error Reporting Service",
+                         "status":  "Stopped"
+                     },
+                     {
+                         "name":  "Still Image Acquisition Events",
+                         "status":  "Stopped"
+                     },
+                     {
+                         "name":  "Windows Defender Service",
+                         "status":  "Stopped"
+                     },
+                     {
+                         "name":  "WinHTTP Web Proxy Auto-Discovery Service",
+                         "status":  "Running"
+                     },
+                     {
+                         "name":  "Windows Management Instrumentation",
+                         "status":  "Running"
+                     },
+                     {
+                         "name":  "Windows Remote Management (WS-Management)",
+                         "status":  "Running"
+                     },
+                     {
+                         "name":  "WLAN AutoConfig",
+                         "status":  "Running"
+                     },
+                     {
+                         "name":  "Microsoft Account Sign-in Assistant",
+                         "status":  "Stopped"
+                     },
+                     {
+                         "name":  "WMI Performance Adapter",
+                         "status":  "Stopped"
+                     },
+                     {
+                         "name":  "Windows Media Player Network Sharing Service",
+                         "status":  "Stopped"
+                     },
+                     {
+                         "name":  "Work Folders",
+                         "status":  "Stopped"
+                     },
+                     {
+                         "name":  "Portable Device Enumerator Service",
+                         "status":  "Stopped"
+                     },
+                     {
+                         "name":  "Windows Push Notifications Service",
+                         "status":  "Stopped"
+                     },
+                     {
+                         "name":  "Security Center",
+                         "status":  "Running"
+                     },
+                     {
+                         "name":  "Websense Client Agent",
+                         "status":  "Stopped"
+                     },
+                     {
+                         "name":  "Windows Search",
+                         "status":  "Running"
+                     },
+                     {
+                         "name":  "Websense SaaS Service",
+                         "status":  "Stopped"
+                     },
+                     {
+                         "name":  "Websense Desktop Client",
+                         "status":  "Stopped"
+                     },
+                     {
+                         "name":  "Windows Store Service (WSService)",
+                         "status":  "Stopped"
+                     },
+                     {
+                         "name":  "Websense DCEP Service",
+                         "status":  "Running"
+                     },
+                     {
+                         "name":  "Windows Update",
+                         "status":  "Stopped"
+                     },
+                     {
+                         "name":  "Windows Driver Foundation - User-mode Driver Framework",
+                         "status":  "Running"
+                     },
+                     {
+                         "name":  "WWAN AutoConfig",
+                         "status":  "Stopped"
+                     },
+                     {
+                         "name":  "Xbox Live Auth Manager",
+                         "status":  "Stopped"
+                     },
+                     {
+                         "name":  "Xbox Live Game Save",
+                         "status":  "Stopped"
+                     },
+                     {
+                         "name":  "Xbox Live Networking Service",
+                         "status":  "Stopped"
+                     },
+                     {
+                         "name":  "Intel(R) PROSet/Wireless Zero Configuration Service",
+                         "status":  "Running"
+                     }
+                 ],
+    "cpu":  {
+                "NumberOfCores":  4,
+                "Manufacturer":  "GenuineIntel",
+                "Family":  198,
+                "Revision":  24067,
+                "Description":  "Intel64 Family 6 Model 94 Stepping 3"
+            },
+    "software":  [
+                     {
+                         "version":  "10/21/2016 15.2.2.1030",
+                         "name":  "Windows Driver Package - Intel Corporation (iaStorA) HDC  (10/21/2016 15.2.2.1030)"
+                     },
+                     {
+                         "version":  "10/21/2016 15.2.2.1030",
+                         "name":  "Windows Driver Package - Intel Corporation (iaStorA) SCSIAdapter  (10/21/2016 15.2.2.1030)"
+                     },
+                     {
+                         "version":  "6.23.0",
+                         "name":  "Cloud Foundry CLI version 6.23.0"
+                     },
+                     {
+                         "version":  "2.11.0",
+                         "name":  "Git version 2.11.0"
+                     },
+                     {
+                         "version":  "2.9.8699.20",
+                         "name":  "Microsoft Azure Compute Emulator - v2.9.5.3"
+                     },
+                     {
+                         "version":  "10.0.50903",
+                         "name":  "Microsoft Visual Studio 2010 Tools for Office Runtime (x64)"
+                     },
+                     {
+                         "version":  "7.3.2",
+                         "name":  "Notepad++ (64-bit x64)"
+                     },
+                     {
+                         "version":  "16.0.7369.2130",
+                         "name":  "Microsoft Office 365 ProPlus - en-us"
+                     },
+                     {
+                         "version":  "15.0.4420.1017",
+                         "name":  "Microsoft Visio Standard 2013"
+                     },
+                     {
+                         "version":  "2.1.1.1",
+                         "name":  "Pulse Secure Setup Client 64-bit Activex Control"
+                     },
+                     {
+                         "version":  "10.0.1737",
+                         "name":  "IIS 10.0 Express"
+                     },
+                     {
+                         "version":  "10.1.15063.137",
+                         "name":  "Application Verifier x64 External Package"
+                     },
+                     {
+                         "version":  null,
+                         "name":  "IIS Express Application Compatibility Database for x64"
+                     },
+                     {
+                         "version":  "2.9.8699.20",
+                         "name":  "Microsoft Azure Authoring Tools - v2.9.5.3"
+                     },
+                     {
+                         "version":  "15.0.26208",
+                         "name":  "icecap_collection_x64"
+                     },
+                     {
+                         "version":  "15.112.26421",
+                         "name":  "Microsoft Visual Studio Team Foundation Server 2017 Office Integration Language Pack (x64) - ENU"
+                     },
+                     {
+                         "version":  "4.1.5012",
+                         "name":  ".NET Core SDK 1.0.4 (x64)"
+                     },
+                     {
+                         "version":  "11.3.6518.0",
+                         "name":  "Microsoft SQL Server 2012 Native Client "
+                     },
+                     {
+                         "version":  "2.1.28.3",
+                         "name":  ". . ."
+                     },
+                     {
+                         "version":  "2.3.0.0",
+                         "name":  "TortoiseGit 2.3.0.0 (64 bit)"
+                     },
+                     {
+                         "version":  "4.16.34282",
+                         "name":  "Microsoft .NET Core 1.1.2 - Host FX Resolver (x64)"
+                     },
+                     {
+                         "version":  "11.5.0.1020",
+                         "name":  "Intel(R) Management Engine Components"
+                     },
+                     {
+                         "version":  "10.0.40219",
+                         "name":  "Microsoft Visual C++ 2010  x64 Redistributable - 10.0.40219"
+                     },
+                     {
+                         "version":  "8.0.1010.13",
+                         "name":  "Java 8 Update 101 (64-bit)"
+                     },
+                     {
+                         "version":  "8.0.1110.14",
+                         "name":  "Java 8 Update 111 (64-bit)"
+                     },
+                     {
+                         "version":  "1.0.1972",
+                         "name":  "Microsoft ASP.NET Core Module for IIS Express"
+                     },
+                     {
+                         "version":  "17.2.1",
+                         "name":  "64 Bit HP CIO Components Installer"
+                     },
+                     {
+                         "version":  "16.0.59.0",
+                         "name":  "VS JIT Debugger"
+                     },
+                     {
+                         "version":  "13.0.1601.5",
+                         "name":  "Active Directory Authentication Library for SQL Server"
+                     },
+                     {
+                         "version":  "5.00.8498.1000",
+                         "name":  "Configuration Manager Client"
+                     },
+                     {
+                         "version":  "16.0.59.0",
+                         "name":  "VS Script Debugging Common"
+                     },
+                     {
+                         "version":  "2.0.10743",
+                         "name":  "Docker"
+                     },
+                     {
+                         "version":  "15.112.26421",
+                         "name":  "Microsoft Visual Studio Team Foundation Server 2017 Office Integration (x64)"
+                     },
+                     {
+                         "version":  "10.0.1972",
+                         "name":  "Microsoft Web Deploy 3.6"
+                     },
+                     {
+                         "version":  "15.0.24.0",
+                         "name":  "IntelliTraceProfilerProxy"
+                     },
+                     {
+                         "version":  "19.20.0003.5256",
+                         "name":  "Intel(R) PRO/Wireless Driver"
+                     },
+                     {
+                         "version":  "8.0.1010.13",
+                         "name":  "Java SE Development Kit 8 Update 101 (64-bit)"
+                     },
+                     {
+                         "version":  "8.0.1110.14",
+                         "name":  "Java SE Development Kit 8 Update 111 (64-bit)"
+                     },
+                     {
+                         "version":  "68.1.1010.0",
+                         "name":  "Microsoft Policy Platform"
+                     },
+                     {
+                         "version":  "1.0.0.0",
+                         "name":  "Intel(R) Management Engine Components"
+                     },
+                     {
+                         "version":  "1.0.5",
+                         "name":  "Microsoft .NET Core 1.0.5 - Runtime (x64)"
+                     },
+                     {
+                         "version":  "4.1.262",
+                         "name":  "Avecto Defendpoint Client (x64) 4.1.262"
+                     },
+                     {
+                         "version":  "2.3.0.0",
+                         "name":  "Accenture Mobile Media Reminder x64"
+                     },
+                     {
+                         "version":  "4.16.1514",
+                         "name":  "Microsoft .NET Core 1.1.2 - Host (x64)"
+                     },
+                     {
+                         "version":  "6.3.8",
+                         "name":  "MySQL Workbench 6.3 CE"
+                     },
+                     {
+                         "version":  "5.1.50906.0",
+                         "name":  "Microsoft Silverlight"
+                     },
+                     {
+                         "version":  "14.10.25008",
+                         "name":  "Microsoft Visual C++ 2017 x64 Minimum Runtime - 14.10.25008"
+                     },
+                     {
+                         "version":  "15.0.4420.1017",
+                         "name":  "Microsoft Office Proofing Tools 2013 - English"
+                     },
+                     {
+                         "version":  null,
+                         "name":  "Security Update for Microsoft Office 2013 (KB2880463) 64-Bit Edition"
+                     },
+                     {
+                         "version":  null,
+                         "name":  "Update for Microsoft Office 2013 (KB3039720) 64-Bit Edition"
+                     },
+                     {
+                         "version":  "15.0.4420.1017",
+                         "name":  "Outils de v?rification linguistique 2013 de Microsoft Office?- Fran?ais"
+                     },
+                     {
+                         "version":  null,
+                         "name":  "Security Update for Microsoft Office 2013 (KB2880463) 64-Bit Edition"
+                     },
+                     {
+                         "version":  null,
+                         "name":  "Update for Microsoft Office 2013 (KB3039720) 64-Bit Edition"
+                     },
+                     {
+                         "version":  "15.0.4420.1017",
+                         "name":  "Microsoft Office Proofing Tools 2013 - Espa?ol"
+                     },
+                     {
+                         "version":  null,
+                         "name":  "Security Update for Microsoft Office 2013 (KB2880463) 64-Bit Edition"
+                     },
+                     {
+                         "version":  null,
+                         "name":  "Update for Microsoft Office 2013 (KB3039720) 64-Bit Edition"
+                     },
+                     {
+                         "version":  "15.0.4420.1017",
+                         "name":  "Microsoft Office Proofing (English) 2013"
+                     },
+                     {
+                         "version":  null,
+                         "name":  "Update for Microsoft Office 2013 (KB3039720) 64-Bit Edition"
+                     },
+                     {
+                         "version":  "15.0.4420.1017",
+                         "name":  "Microsoft Visio Standard 2013"
+                     },
+                     {
+                         "version":  null,
+                         "name":  "Security Update for Microsoft Office 2013 (KB2726958) 64-Bit Edition"
+                     },
+                     {
+                         "version":  null,
+                         "name":  "Security Update for Microsoft Outlook 2013 (KB2837618) 64-Bit Edition"
+                     },
+                     {
+                         "version":  null,
+                         "name":  "Update for Microsoft Visio Viewer 2013 (KB2817301) 64-Bit Edition"
+                     },
+                     {
+                         "version":  null,
+                         "name":  "Update for Microsoft Office 2013 (KB2899522) 64-Bit Edition"
+                     },
+                     {
+                         "version":  null,
+                         "name":  "Update for Microsoft Office 2013 (KB3039720) 64-Bit Edition"
+                     },
+                     {
+                         "version":  null,
+                         "name":  "Update for Microsoft Office 2013 (KB2760610) 64-Bit Edition"
+                     },
+                     {
+                         "version":  null,
+                         "name":  "Update for Microsoft Office 2013 (KB2760344) 64-Bit Edition"
+                     },
+                     {
+                         "version":  "15.0.4420.1017",
+                         "name":  "Microsoft Visio MUI (English) 2013"
+                     },
+                     {
+                         "version":  null,
+                         "name":  "Update for Microsoft Office 2013 (KB3039720) 64-Bit Edition"
+                     },
+                     {
+                         "version":  "15.0.4420.1017",
+                         "name":  "Microsoft Office Shared MUI (English) 2013"
+                     },
+                     {
+                         "version":  null,
+                         "name":  "Security Update for Microsoft Office 2013 (KB2768005) 64-Bit Edition"
+                     },
+                     {
+                         "version":  null,
+                         "name":  "Update for Microsoft Visio Viewer 2013 (KB2817301) 64-Bit Edition"
+                     },
+                     {
+                         "version":  null,
+                         "name":  "Update for Microsoft Office 2013 (KB3039720) 64-Bit Edition"
+                     },
+                     {
+                         "version":  "15.0.4420.1017",
+                         "name":  "Microsoft Office 32-bit Components 2013"
+                     },
+                     {
+                         "version":  null,
+                         "name":  "Update for Microsoft Office 2013 (KB3039720) 64-Bit Edition"
+                     },
+                     {
+                         "version":  null,
+                         "name":  "Update for Microsoft SkyDrive Pro (KB2837652) 64-Bit Edition"
+                     },
+                     {
+                         "version":  "15.0.4420.1017",
+                         "name":  "Microsoft Office Shared 32-bit MUI (English) 2013"
+                     },
+                     {
+                         "version":  null,
+                         "name":  "Update for Microsoft SkyDrive Pro (KB2837652) 64-Bit Edition"
+                     },
+                     {
+                         "version":  null,
+                         "name":  "Update for Microsoft Office 2013 (KB3039720) 64-Bit Edition"
+                     },
+                     {
+                         "version":  "15.0.4420.1017",
+                         "name":  "Microsoft Office OSM MUI (English) 2013"
+                     },
+                     {
+                         "version":  null,
+                         "name":  "Update for Microsoft Office 2013 (KB3039720) 64-Bit Edition"
+                     },
+                     {
+                         "version":  "15.0.4420.1017",
+                         "name":  "Microsoft Office Shared Setup Metadata MUI (English) 2013"
+                     },
+                     {
+                         "version":  null,
+                         "name":  "Update for Microsoft Office 2013 (KB3039720) 64-Bit Edition"
+                     },
+                     {
+                         "version":  "16.0.7369.2130",
+                         "name":  "Office 16 Click-to-Run Licensing Component"
+                     },
+                     {
+                         "version":  "16.0.7369.2130",
+                         "name":  "Office 16 Click-to-Run Extensibility Component 64-bit Registration"
+                     },
+                     {
+                         "version":  "15.0.26208",
+                         "name":  "DiagnosticsHub_CollectionService"
+                     },
+                     {
+                         "version":  "11.3.6020.0",
+                         "name":  "Microsoft SQL Server 2012 Command Line Utilities "
+                     },
+                     {
+                         "version":  "12.0.21005",
+                         "name":  "Microsoft Visual C++ 2013 x64 Additional Runtime - 12.0.21005"
+                     },
+                     {
+                         "version":  "10.0.50908",
+                         "name":  "Microsoft Visual Studio 2010 Tools for Office Runtime (x64)"
+                     },
+                     {
+                         "version":  "10.1.15063.137",
+                         "name":  "Windows App Certification Kit Native Components"
+                     },
+                     {
+                         "version":  "13.0.1601.5",
+                         "name":  "Microsoft System CLR Types for SQL Server 2016"
+                     },
+                     {
+                         "version":  "1.43.300.1",
+                         "name":  "Intel? Trusted Connect Service Client"
+                     },
+                     {
+                         "version":  "10.1207.101.110",
+                         "name":  "Dell Touchpad"
+                     },
+                     {
+                         "version":  "6.9.4",
+                         "name":  "Node.js"
+                     },
+                     {
+                         "version":  "12.0.21005",
+                         "name":  "Microsoft Visual C++ 2013 x64 Minimum Runtime - 12.0.21005"
+                     },
+                     {
+                         "version":  null,
+                         "name":  "IIS Express Application Compatibility Database for x86"
+                     },
+                     {
+                         "version":  "8.0.61000",
+                         "name":  "Microsoft Visual C++ 2005 Redistributable (x64)"
+                     },
+                     {
+                         "version":  "2.9.8699.20",
+                         "name":  "Microsoft Azure Compute Emulator - v2.9.5.3"
+                     },
+                     {
+                         "version":  "1.0.0.0",
+                         "name":  "Intel(R) Management Engine Components"
+                     },
+                     {
+                         "version":  "1.1.2",
+                         "name":  "Microsoft .NET Core 1.1.2 - Runtime (x64)"
+                     },
+                     {
+                         "version":  "5.1.12",
+                         "name":  "Oracle VM VirtualBox 5.1.12"
+                     },
+                     {
+                         "version":  "3.0.0127.060",
+                         "name":  "Microsoft Azure Libraries for .NET ? v2.9"
+                     },
+                     {
+                         "version":  "14.10.25008",
+                         "name":  "Microsoft Visual C++ 2017 x64 Additional Runtime - 14.10.25008"
+                     },
+                     {
+                         "version":  "4.0.21265",
+                         "name":  "Microsoft .NET Core 1.0.5 - Host (x64)"
+                     },
+                     {
+                         "version":  "5.7.17",
+                         "name":  "MySQL Server 5.7"
+                     },
+                     {
+                         "version":  "10.1.15063.137",
+                         "name":  "Universal CRT Tools x64"
+                     },
+                     {
+                         "version":  "4.1.21265",
+                         "name":  "Microsoft .NET Core 1.0.5 - Host FX Resolver (x64)"
+                     },
+                     {
+                         "version":  "12.0.0.0",
+                         "name":  "Microsoft VC++ redistributables repacked."
+                     },
+                     {
+                         "version":  "5.3.7",
+                         "name":  "MySQL Connector/ODBC 5.3"
+                     },
+                     {
+                         "version":  "3.4.1",
+                         "name":  "MongoDB 3.4.1 (64 bit)"
+                     },
+                     {
+                         "version":  "9.1.0.98",
+                         "name":  "Dell Command | Monitor"
+                     },
+                     {
+                         "version":  "8.1.3255",
+                         "name":  "TRITON AP-ENDPOINT"
+                     },
+                     {
+                         "version":  "13.0.1601.5",
+                         "name":  "Microsoft SQL Server 2016 LocalDB "
+                     },
+                     {
+                         "version":  "6.2.0.0",
+                         "name":  "Local Administrator Password Solution"
+                     },
+                     {
+                         "version":  "5.2.869",
+                         "name":  "Pulse Secure"
+                     },
+                     {
+                         "version":  "12.1.7004.6500",
+                         "name":  "Symantec Endpoint Protection"
+                     },
+                     {
+                         "version":  "14.5.0100.01060",
+                         "name":  "AgentInstall64"
+                     },
+                     {
+                         "version":  "19.20.1.0874",
+                         "name":  "Intel? PROSet/Wireless WiFi Software"
+                     },
+                     {
+                         "version":  "11.5.0.1020",
+                         "name":  "Intel(R) Management Engine Components"
+                     }
+                 ],
+    "ipAddress":  "10.88.157.17",
+    "machineId":  "1"
+}
